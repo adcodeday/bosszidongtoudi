@@ -147,3 +147,4 @@ window.addEventListener('load', function() {
 
 打开投递页，输入开始页码，结束页码，然后点击开始投递
 ![打开投递页](/打开投递页.png)
+如果有帮助，记得点个小star哦~~~~~
